@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00FFFF&height=200&section=header&text=Shaik%20Arshiya&fontSize=50&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Developer%20%7C%20AI%20Explorer%20%7C%20Problem%20Solver&descAlignY=60&descSize=18" width="100%"/>
+
 # 👋 Hi, I'm Shaik Arshiya
 
 ### 💻 Computer Science Engineering Student
@@ -28,61 +30,69 @@
 **Dhanekula Institute of Engineering and Technology**.
 
 💡 I am passionate about **Artificial Intelligence, software development,
-problem solving, and building technology for real-world problems**.
+Data Structures & Algorithms, and solving real-world problems through technology**.
 
-🚀 I enjoy learning new technologies, experimenting with ideas,
-building projects, and continuously improving my technical skills.
+🚀 I enjoy learning new technologies, building projects, experimenting
+with ideas, and continuously improving my technical skills.
 
-🧠 My current focus is on strengthening my programming fundamentals,
-Data Structures & Algorithms, Python, databases, and Artificial Intelligence.
+🧠 I believe that strong fundamentals, consistent learning, and practical
+projects are the foundation for becoming a better developer.
 
 ---
 
-## 🚀 Current Focus
+## ⚡ Current Focus
 
-| Area | What I'm Working On |
+<div align="center">
+
+| 🚀 Area | 🧠 Current Focus |
 |---|---|
-| 🤖 Artificial Intelligence | Understanding AI and intelligent systems |
-| 🐍 Python | Building strong programming fundamentals |
-| 🧩 DSA | Improving algorithms and problem solving |
+| 🤖 Artificial Intelligence | Exploring intelligent systems & AI concepts |
+| 🐍 Python | Strengthening programming fundamentals |
+| 🧩 DSA | Improving algorithms & problem solving |
 | 🌐 Web Development | Building interactive web experiences |
-| 🗄️ Databases | SQL and database fundamentals |
+| 🗄️ Databases | Learning SQL & DBMS |
 | 💡 Projects | Turning ideas into practical solutions |
 
+</div>
+
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### 👩‍💻 Programming Languages
+### 👩‍💻 Programming
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=c,java,python,javascript" />
 </p>
 
-### 🌐 Web Technologies
+### 🌐 Web Development
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js" />
 </p>
 
-### 🗄️ Database & Development Tools
+### 🗄️ Tools & Database
 
-<p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,vscode,git,github" />
 </p>
 
 ### 🧠 Computer Science
 
-`Data Structures & Algorithms` • `Database Management Systems` • `Object-Oriented Programming` • `SQL` • `Discrete Mathematics` • `Problem Solving`
+<p align="center">
+
+`Data Structures & Algorithms` • `DBMS` • `OOP` • `SQL` • `Discrete Mathematics` • `Problem Solving`
+
+</p>
 
 ---
 
-## 🏥 Featured Project
+# 🏥 Featured Student Project
 
-# Telemedicine Access for Rural Healthcare
+## Telemedicine Access for Rural Healthcare
 
-A student project focused on improving healthcare accessibility for
-rural and underserved communities through technology.
+A student project exploring how **technology and Artificial Intelligence**
+can improve healthcare accessibility for rural and underserved communities.
 
 ### ✨ Key Features
 
@@ -96,130 +106,152 @@ rural and underserved communities through technology.
 - 🔔 Follow-up reminders
 - 🏘️ Community healthcare support
 
-### 🎯 Goal
+### 🎯 Project Goal
 
 To explore how software and AI can help make healthcare services
 more accessible to people in rural and underserved communities.
 
 ---
 
-## 🧭 My Learning Journey
+# 🧭 My Learning Journey
 
-**Programming Fundamentals**  
-↓  
-**Data Structures & Algorithms**  
-↓  
-**Web Development**  
-↓  
-**Database Systems**  
-↓  
-**Artificial Intelligence**  
-↓  
-**Real-World Projects**  
-↓  
-**Continuous Learning 🚀**
+<div align="center">
 
----
+### 💻 Programming Fundamentals
+⬇️
+### 🧩 Data Structures & Algorithms
+⬇️
+### 🌐 Web Development
+⬇️
+### 🗄️ Database Systems
+⬇️
+### 🤖 Artificial Intelligence
+⬇️
+### 🚀 Real-World Projects
+⬇️
+### 🌎 Continuous Learning
 
-## 🌱 Currently Learning
-
-- 🐍 Python
-- 🤖 Artificial Intelligence
-- 🧠 Problem Solving
-- 🧩 Data Structures & Algorithms
-- 🗄️ DBMS & SQL
-- 🌐 Web Development
-- 🚀 Project Development
+</div>
 
 ---
 
-## 🎯 My Mission
+# 🌱 Currently Learning
 
-> **Learn continuously. Build fearlessly. Solve meaningful problems.**
+<p align="center">
 
-I want to become a strong technology professional and create products
-that solve real-world problems and make a meaningful impact.
+🐍 **Python**  
+🤖 **Artificial Intelligence**  
+🧩 **Data Structures & Algorithms**  
+🧠 **Problem Solving**  
+🗄️ **DBMS & SQL**  
+🌐 **Web Development**  
+🚀 **Project Development**
 
-My long-term goal is to combine **technology, AI, entrepreneurship,
-and problem solving** to build useful solutions.
+</p>
 
 ---
 
-## 🎨 Beyond Coding
+# 🎯 My Mission
+
+<div align="center">
+
+### **Learn continuously. Build fearlessly. Create meaningful impact.**
+
+</div>
+
+I want to become a strong technology professional who can turn ideas
+into useful solutions.
+
+My long-term goal is to combine **technology, Artificial Intelligence,
+entrepreneurship, and problem solving** to build products that solve
+meaningful real-world problems.
+
+---
+
+# 💡 What I Believe
+
+<div align="center">
+
+### Learn → Build → Fail → Improve → Create → Impact 🚀
+
+</div>
+
+Every project is an opportunity to learn.
+
+Every mistake is an opportunity to improve.
+
+Every problem is an opportunity to create something better.
+
+---
+
+# 🎨 Beyond Coding
+
+<div align="center">
 
 🎨 **Painting & Sketching**  
-🧩 **Problem Solving**  
 🤖 **Exploring AI & Technology**  
+🧩 **Problem Solving**  
 💡 **Innovation & Ideas**  
 🌍 **Real-World Problem Solving**
 
+</div>
+
 ---
 
-## 📊 GitHub Statistics
+# 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ShaikArshiya7&show_icons=true&hide_border=true&theme=tokyonight&bg_color=050508&title_color=00FFFF&icon_color=8A2BE2&text_color=FFFFFF" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ShaikArshiya7&show_icons=true&hide_border=true&theme=tokyonight&bg_color=050508&title_color=00FFFF&icon_color=8A2BE2&text_color=FFFFFF"/>
 
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikArshiya7&layout=compact&hide_border=true&theme=tokyonight&bg_color=050508&title_color=00FFFF&text_color=FFFFFF" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShaikArshiya7&layout=compact&hide_border=true&theme=tokyonight&bg_color=050508&title_color=00FFFF&text_color=FFFFFF"/>
 
 </div>
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ShaikArshiya7&theme=tokyonight&hide_border=true&background=050508&ring=8A2BE2&fire=00FFFF&currStreakLabel=00FFFF&sideLabels=FFFFFF&dates=FFFFFF" />
+<img src="https://streak-stats.demolab.com?user=ShaikArshiya7&theme=tokyonight&hide_border=true&background=050508&ring=8A2BE2&fire=00FFFF&currStreakLabel=00FFFF&sideLabels=FFFFFF&dates=FFFFFF"/>
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+# 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=ShaikArshiya7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=ShaikArshiya7&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&column=6"/>
 
 </div>
 
 ---
 
-## 💻 What I Believe
+# 📈 My Growth Mindset
 
 <div align="center">
 
-### Learn → Build → Fail → Improve → Create Impact 🚀
-
-</div>
-
-Every project is an opportunity to learn something new.
-
-Every problem is an opportunity to improve.
-
-Every small step contributes to a bigger goal.
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/ShaikArshiya7">
-  <img src="https://img.shields.io/badge/GitHub-ShaikArshiya7-050508?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+| 🌱 Today | 🚀 Tomorrow |
+|---|---|
+| Learn | Build |
+| Practice | Create |
+| Solve | Innovate |
+| Improve | Impact |
 
 </div>
 
 ---
 
-## 👀 Profile Visitors
+# 👩‍💻 Who I Am Becoming
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=ShaikArshiya7&label=Profile%20Views&color=8A2BE2&style=for-the-badge" />
+### A developer who doesn't just learn technology...
+
+### **but uses technology to solve problems.** 💜
 
 </div>
 
@@ -227,10 +259,12 @@ Every small step contributes to a bigger goal.
 
 <div align="center">
 
-# 💜 Thanks for visiting my profile!
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFFF,100:8A2BE2&height=120&section=footer" width="100%"/>
 
-### Keep Learning • Keep Building • Keep Growing 🚀
+### 💜 Thanks for visiting my profile!
 
-**© Shaik Arshiya**
+**Keep Learning • Keep Building • Keep Growing 🚀**
+
+### — Shaik Arshiya
 
 </div>
